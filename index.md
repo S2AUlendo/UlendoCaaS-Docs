@@ -1,9 +1,9 @@
 ---
-title: Home
+title: Ulendo CaaS
 layout: home
 ---
 
-Welcome to Ulendo's Calibration as a service ecosystem. 
+# Welcome to Ulendo's Calibration as a service ecosystem. 
 
 Calibration as a Service [CaaS] is a platform which is designed to help OEMs, contract manufacturers and users understand the impact of vibration on the performance of their machine and optimize the systems through improved design and software.
 
@@ -12,12 +12,12 @@ The Ulendo Calibration as a service ecosystem at launch features two main compon
 1. The Calibration as a Service Plugin for OctoPrint named Ulendo-CaaS
 2. The Calibration as a Service Dashboard.
 
-CaaS for OctoPrint provides :
+## CaaS for OctoPrint
 An easy way to run calibrations directly from the OctoPrint user interface. 
 
 Users can select from several different input shapers to configure their printer, and configure basic settings for more advanced shapers. 
 
-CaaS Dashboard provides
+## CaaS Dashboard provides
 An easy way for users to view their calibration history, see detailed results, and get a more detailed analysis of the vibration performance of their printer. 
 
 The Dashboard also provides a general score of the vibration of each axis on your printer. These results can help to identify machines that may need servicing across your fleet of printers. 

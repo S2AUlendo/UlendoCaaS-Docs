@@ -14,3 +14,4 @@ A default set of parameters are provided which should work for the majority of c
 > Adjusting these settings may result to unwanted behavior from the machine. Adjust these settings at your own risk. Incorrectly configured settings may result in damage to you or your machine. 
 
 
+---
