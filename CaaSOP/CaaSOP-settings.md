@@ -2,7 +2,7 @@
 layout: default
 title: Advanced Configuration 
 description: "Optional Parameter Tuning."
-parent: CaaSOP
+parent: CaaS for OctoPrint
 nav_order: 1
 ---
 # Advanced Settings

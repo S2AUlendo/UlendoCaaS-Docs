@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaaSDB
+title: CaaS Dashboard
 description: "Calibration as a Service Dashboard."
 has_children: true
 nav_order: 2
