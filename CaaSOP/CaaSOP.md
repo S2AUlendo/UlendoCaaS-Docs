@@ -19,8 +19,17 @@ The  Calibration as a Service plugin generates a frequency sweep for on the prin
 Alternatively, the plugin can be cloned directly from [Ulendo-CaaS Github] page, and installed by running the following script.
 
 
-### Supported Platforms
+## Supported Platforms
+
+### Devices
 The Ulendo-CaaS plugin has been tested on the the Raspberry Pi 3b, Raspberry Pi 4.  
+
+### Accelerometers
+ADXL345
+
+#### Printers
+Currently, Ulendo has pre-built firmware for the [Ender 3] V2 Neo, and the Taz Pro printers. To add support for your printer, ask your printer's manufacturer about adding support for Ulendo's FTM.
+
 
 ### Fixed Time Motion
 Currently, this plugin only works with plugins with printers that have support for Ulendo's Fixed Time Module developed for the Marlin Firmware. To find out how to add support for this module, contact your OEM.
@@ -38,3 +47,4 @@ After the accelerometer is connected to the Pi and mounted to the printer. Users
 
 [Ulendo-CaaS]: https://just-the-docs.github.io/just-the-docs/
 [Ulendo-CaaS Github]: https://github.com/S2AUlendo/UlendoCaaS
+[Ender 3]: https://github.com/S2AUlendo/Ender3-FT

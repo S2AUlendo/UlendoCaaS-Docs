@@ -3,7 +3,7 @@ title: Ulendo CaaS
 layout: home
 ---
 
-# Welcome to Ulendo's Calibration as a service ecosystem. 
+# Ulendo's Calibration as a service ecosystem 
 
 Calibration as a Service [CaaS] is a platform which is designed to help OEMs, contract manufacturers and users understand the impact of vibration on the performance of their machine and optimize the systems through improved design and software.
 
