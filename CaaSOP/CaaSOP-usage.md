@@ -8,6 +8,8 @@ nav_order: 1
 # An Overview
 During and after calibration process a series of charts are generated. This page provides a short overview of the different states of operation that are executed during the calibration process.
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/hKaipyAW81c/0.jpg)](https://www.youtube.com/watch?v=hKaipyAW81c)
+
 ## Accelerometer Detection
 As the first step, the plugin generates a self-test for the accelerometer. This test is done to ensure that the accelerometer is securely wired to the attached Raspberry Pi.
 
