@@ -15,7 +15,7 @@ To use the calibration as a Service Plugin for OctoPrint. Users will first need 
 
 ## Adding your first machine
 To add a machine users will head to the inventory page, and click the new button to add a new machine. 
-After providing some details to make it easier to reference the machine, click create to store the information 
+After providing some details to make it easier to reference the machine, click create to store the information.
 
 A unique ID is automatically generated. Users will need this information along with their customer ID and access key to use the plugin.
 

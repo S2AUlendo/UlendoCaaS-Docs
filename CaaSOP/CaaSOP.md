@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CaaSOP
+title: CaaS for OctoPrint
 description: "Calibration as a Service Plugin for OctoPrint."
 has_children: true
 nav_order: 2
@@ -21,6 +21,12 @@ Alternatively, the plugin can be cloned directly from [Ulendo-CaaS Github] page,
 
 ### Supported Platforms
 The Ulendo-CaaS plugin has been tested on the the Raspberry Pi 3b, Raspberry Pi 4.  
+
+### Fixed Time Motion
+Currently, this plugin only works with plugins with printers that have support for Ulendo's Fixed Time Module developed for the Marlin Firmware. To find out how to add support for this module, contact your OEM.
+
+The data collection, and application of the shapers require support at the firmware level, and is not available for all machines. Contact your OEM to find out more about adding support for Ulendo's FTM.
+
 
 ## Printer operation
 For the Calibration as a Service Plugin to work effectively, an accelerometer needs to be attached to the printer, and connected to a support version of the Raspberry Pi. 
