@@ -3,7 +3,7 @@ layout: default
 title: CaaS for OctoPrint
 description: "Calibration as a Service Plugin for OctoPrint."
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # Calibration as a Service for OctoPrint
@@ -12,12 +12,6 @@ Ulendo has developed a plugin for OctoPrint called Ulendo-CaaS. This plugin allo
 
 ## How it works
 The  Calibration as a Service plugin generates a frequency sweep for on the printer, and collects the data using an attached accelerometer. The data is then sent via internet to a centralized cloud service which analyzes the data and generates the optimal parameters when is then returned the printer.
-
-## Installation 
-[Ulendo-CaaS] plugin can be installed directly from the OctoPrint  repository from this link.
-
-Alternatively, the plugin can be cloned directly from [Ulendo-CaaS Github] page, and installed by running the following script.
-
 
 ## Supported Platforms
 

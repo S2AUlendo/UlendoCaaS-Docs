@@ -3,7 +3,7 @@ layout: default
 title: Advanced Configuration 
 description: "Optional Parameter Tuning."
 parent: CaaS for OctoPrint
-nav_order: 2
+nav_order: 3
 ---
 # Advanced Settings
 For expert users a number of advanced settings are provided. These can be accessed from the settings menu in the OctoPrint interface. 
