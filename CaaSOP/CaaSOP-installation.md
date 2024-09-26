@@ -6,7 +6,6 @@ parent: CaaS for OctoPrint
 nav_order: 2
 ---
 # Getting Started
----
 
 ## OctoPi Installation (Recommended)
 
@@ -30,11 +29,8 @@ Your Raspberry Pi should now boot up with OctoPi (which includes OctoPrint), and
 The [Ulendo-CaaS] plugin can be installed directly from the OctoPrint Plugin Repository. Follow these steps:
 
 1. Open the **OctoPrint Web Interface** by navigating to `http://<your-raspberry-pi-ip>/` in your browser.
-   
 2. Go to **Settings** -> **Plugin Manager** -> **Get More**.
-
 3. Search for **Ulendo CaaS**, and install it directly from the plugin repository.
----
 
 ## Manual Installation
 
