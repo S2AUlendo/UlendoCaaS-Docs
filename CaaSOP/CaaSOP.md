@@ -3,7 +3,7 @@ layout: default
 title: CaaS for OctoPrint
 description: "Calibration as a Service Plugin for OctoPrint."
 has_children: true
-nav_order: 3
+nav_order: 1
 ---
 
 # Calibration as a Service for OctoPrint
