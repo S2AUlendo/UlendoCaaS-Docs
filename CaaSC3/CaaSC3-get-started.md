@@ -34,6 +34,13 @@ To connect your **C3** device to the internet, follow these steps:
 5. **Save and Connect**: After entering the correct network details, click **Save** to establish the connection. The **C3** device will attempt to connect to the Wi-Fi network. Once successful, the home screen on the device will display a **Wi-Fi Connected** icon indicator.
 6. **Confirm Connection**: Your **C3** device will now be connected to your Wi-Fi network, and you can proceed with device registration in the next step.
 
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img src="../assets/images/c3/c3accesspointmode.jpg" width="15%" height="15%">
+  <img src="../assets/images/c3/accesspoint.png" width="20%" height="20%">
+  <img src="../assets/images/c3/WiFiManager.png" width="25%" height="25%">
+  <img src="../assets/images/c3/wifisetupcomplete.jpg" width="15%" height="15%">
+</div>
+
 {: .info }
 > For optimal performance, ensure your device is within the range of a stable Wi-Fi signal. If you experience any connection issues, try moving the device closer to your router or use a Wi-Fi extender.
 
@@ -46,7 +53,13 @@ Integrate your **C3** device with your account by following these steps:
 4. Click **Submit** to register your device.
 5. Restart your C3 device by pressing the reset button (lowest button).
 
+
 Swiping to the left screen on your C3 device, you will see a message indicating that the device is registered. If the device is successfully registered, it will appear in your device list with its current status and controls.
+
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img src="../assets/images/c3/add_device.png" width="60%" height="60%">
+  <img src="../assets/images/c3/device_registered.png" width="20%" height="20%">
+</div>
 
 ## Step 5: Begin Using Your C3 Device
 Once added, your **C3** device is ready for use. Through the dashboard, you can:
@@ -60,6 +73,11 @@ Once added, your **C3** device is ready for use. Through the dashboard, you can:
 
 {: .warning }
 > Ensure your printer is free of obstacles before starting any movement or calibration commands. Follow the safety guidelines provided in the user manual.
+
+<div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
+  <img src="../assets/images/c3/navigateprinter.png" width="40%" height="40%">
+  <img src="../assets/images/c3/controlpage.png" width="45%" height="45%">
+</div>
 
 ## Troubleshooting
 If you encounter issues during setup, refer to the [Troubleshooting Guide](https://example.com/troubleshooting) or contact our support team for assistance.
