@@ -2,12 +2,12 @@
 layout: default
 title: Usage Overview
 description: "Explore the features and functionalities of the C3 device."
-parent: Connectivity Control Collaboration (C3)
-nav_order: 3
+parent: CaaS Connectivity Control Calibration (C3)
+nav_order: 2
 ---
 
 # Usage Overview
-The **Connectivity Control Collaboration (C3)** device is a versatile tool designed to enhance your 3D printing experience. This page provides an overview of the key features and functionalities available through the C3 device and the CaaSUI dashboard.
+The **Connectivity Control Calibration (C3)** device is a versatile tool designed to enhance your 3D printing experience. This page provides an overview of the key features and functionalities available through the C3 device and the CaaSUI dashboard.
 
 ## Input Shaper Calibration
 Optimize your 3D printer's performance with the **Calibration as a Service** feature:

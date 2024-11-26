@@ -2,12 +2,12 @@
 layout: default
 title: Getting Started
 description: "Learn how to set up and use your C3 device."
-parent: Connectivity Control Collaboration (C3)
+parent: CaaS Connectivity Control Calibration (C3)
 nav_order: 1
 ---
 
 # Getting Started
-This guide provides step-by-step instructions to help you set up your **Connectivity Control Collaboration (C3)** device and integrate it with your 3D printer. By following this process, you'll be able to remotely control your printer and perform calibrations through our CaaSUI dashboard.
+This guide provides step-by-step instructions to help you set up your **Connectivity Control Calibration (C3)** device and integrate it with your 3D printer. By following this process, you'll be able to remotely control your printer and perform calibrations through our CaaSUI dashboard.
 
 ## Step 1: Create an Account
 To get started, visit the [CaaSUI website](https://beta.d11dolnrbc1eee.amplifyapp.com/) and create an account:

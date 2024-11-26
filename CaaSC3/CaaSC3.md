@@ -1,12 +1,12 @@
 ---
 layout: default
-title: CaaS - C3
-description: "Connectivity Control Collaboration - C3"
+title: CaaS Connectivity Control Calibration (C3)
+description: "Connectivity Control Calibration - C3"
 has_children: true
 nav_order: 3
 ---
 
-# Connectivity Control Collaboration - C3 Device
+# Connectivity Control Calibration - C3 Device
 The C3 device is a cutting-edge solution designed to enhance 3D printer management and optimization. Powered by the ESP32 microcontroller, C3 allows users to:
 - Control Printers Remotely: Connect to your printer and manage it through our intuitive dashboard from anywhere, whether you’re at home, in the office, or on the go.
 - Run Calibrations: Perform detailed calibrations using the device's built-in IMU, enabling precise adjustments for improved print quality and reliability.
