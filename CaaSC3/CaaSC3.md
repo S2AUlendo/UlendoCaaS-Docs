@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Ulendo CaaS - C3
+title: CaaS - C3
 description: "Connectivity Control Collaboration - C3"
 has_children: true
-nav_order: 1
+nav_order: 3
 ---
 
-# 
+# Connectivity Control Collaboration - C3 Device
 The C3 device is a cutting-edge solution designed to enhance 3D printer management and optimization. Powered by the ESP32 microcontroller, C3 allows users to:
 - Control Printers Remotely: Connect to your printer and manage it through our intuitive dashboard from anywhere, whether you’re at home, in the office, or on the go.
 - Run Calibrations: Perform detailed calibrations using the device's built-in IMU, enabling precise adjustments for improved print quality and reliability.
@@ -22,7 +22,7 @@ The C3 device is a cutting-edge solution designed to enhance 3D printer manageme
 - **Firmware Update Tool**: Benefit from our easy to use firmware update tool, plug in your device and update on the go from your computer.
   
 ### Devices
-Ulendo CaaS C3 ESP32S3 1.69inch Touch LCD 
+Ulendo CaaS C3 ESP32S3 1.69-inch Touch LCD 
 
 ### Accelerometers
 QMI8658 (onboard)

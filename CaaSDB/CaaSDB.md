@@ -3,7 +3,7 @@ layout: default
 title: CaaS Dashboard
 description: "Calibration as a Service Dashboard."
 has_children: true
-nav_order: 2
+nav_order: 1
 ---
 # Calibration as Service Dashboard
 The calibration as a Service Dashboard is a central platform to view and manage collections of printers.
