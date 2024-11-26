@@ -3,7 +3,7 @@ layout: default
 title: Getting Started
 description: "Learn how to set up and use your C3 device."
 parent: Connectivity Control Collaboration (C3)
-nav_order: 2
+nav_order: 1
 ---
 
 # Getting Started
