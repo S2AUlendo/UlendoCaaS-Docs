@@ -8,9 +8,9 @@ nav_order: 3
 
 # Connectivity Control Calibration - C3 Device
 The C3 device is a cutting-edge solution designed to enhance 3D printer management and optimization. Powered by the ESP32 microcontroller, C3 allows users to:
-- Control Printers Remotely: Connect to your printer and manage it through our intuitive dashboard from anywhere, whether you’re at home, in the office, or on the go.
-- Run Calibrations: Perform detailed calibrations using the device's built-in IMU, enabling precise adjustments for improved print quality and reliability.
-- Data Collection: Seamlessly collect and visualize calibration data to gain valuable insights into your printer's performance.
+- **Control Printers Remotely**: Connect to your printer and manage it through our intuitive dashboard from anywhere, whether you’re at home, in the office, or on the go.
+- **Run Calibrations**: Perform detailed calibrations using the device's built-in IMU, enabling precise adjustments for improved print quality and reliability.
+- **Data Collection**: Seamlessly collect and visualize calibration data to gain valuable insights into your printer's performance.
   
  
 ## How it works

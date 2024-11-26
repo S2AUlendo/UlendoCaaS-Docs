@@ -24,7 +24,20 @@ Unbox your **C3** device and connect it to a power source using the provided cab
 {: .info }
 > Make sure the device is placed near a stable Wi-Fi connection for seamless operation.
 
-## Step 3: Add Your Device to the Dashboard
+## Step 3: Connect your C3 device to WiFi
+To connect your **C3** device to the internet, follow these steps:
+
+1. **Device Wi-Fi Access Point**: Once powered on, your **C3** device will automatically create its own Wi-Fi network. The network name will appear on your computer or smartphone's Wi-Fi settings (e.g., **AutoConnectAP**).
+2. **Connect to the Device’s Network**: On your computer or smartphone, go to the Wi-Fi settings and connect to the **AutoConnectAP** network.
+3. **Access the Wi-Fi Manager**: After successfully connecting to the device’s Wi-Fi, your browser will automatically open the **Wi-Fi Manager** page. If this doesn’t happen, open your browser manually and navigate to `http://192.168.4.1`.
+4. **Choose Your Wi-Fi Network**: On the Wi-Fi Manager page, you will see a list of available Wi-Fi networks. Select your desired network and enter the Wi-Fi network credentials (SSID and password).
+5. **Save and Connect**: After entering the correct network details, click **Save** to establish the connection. The **C3** device will attempt to connect to the Wi-Fi network. Once successful, the home screen on the device will display a **Wi-Fi Connected** icon indicator.
+6. **Confirm Connection**: Your **C3** device will now be connected to your Wi-Fi network, and you can proceed with device registration in the next step.
+
+{: .info }
+> For optimal performance, ensure your device is within the range of a stable Wi-Fi signal. If you experience any connection issues, try moving the device closer to your router or use a Wi-Fi extender.
+
+## Step 4: Add Your Device to the Dashboard
 Integrate your **C3** device with your account by following these steps:
 
 1. Log in to your dashboard at [CaaSUI](https://beta.d11dolnrbc1eee.amplifyapp.com/).
@@ -35,7 +48,7 @@ Integrate your **C3** device with your account by following these steps:
 
 Swiping to the left screen on your C3 device, you will see a message indicating that the device is registered. If the device is successfully registered, it will appear in your device list with its current status and controls.
 
-## Step 4: Begin Using Your C3 Device
+## Step 5: Begin Using Your C3 Device
 Once added, your **C3** device is ready for use. Through the dashboard, you can:
 
 - Monitor and control your printer remotely:
