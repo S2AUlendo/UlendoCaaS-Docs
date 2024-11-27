@@ -35,10 +35,10 @@ To connect your **C3** device to the internet, follow these steps:
 6. **Confirm Connection**: Your **C3** device will now be connected to your Wi-Fi network, and you can proceed with device registration in the next step.
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="../assets/images/c3/c3accesspointmode.jpg" width="15%" height="15%">
-  <img src="../assets/images/c3/accesspoint.png" width="20%" height="20%">
-  <img src="../assets/images/c3/WiFiManager.png" width="25%" height="25%">
-  <img src="../assets/images/c3/wifisetupcomplete.jpg" width="15%" height="15%">
+  <img src="../assets/images/c3/c3accesspointmode.jpg" width="25%" height="25%">
+  <img src="../assets/images/c3/accesspoint.png" width="30%" height="30%">
+  <img src="../assets/images/c3/WiFiManager.png" width="35%" height="35%">
+  <img src="../assets/images/c3/wifisetupcomplete.jpg" width="25%" height="25%">
 </div>
 
 {: .info }
@@ -57,8 +57,8 @@ Integrate your **C3** device with your account by following these steps:
 Swiping to the left screen on your C3 device, you will see a message indicating that the device is registered. If the device is successfully registered, it will appear in your device list with its current status and controls.
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="../assets/images/c3/add_device.png" width="60%" height="60%">
-  <img src="../assets/images/c3/device_registered.png" width="20%" height="20%">
+  <img src="../assets/images/c3/add_device.png" width="70%" height="70%">
+  <img src="../assets/images/c3/device_registered.png" width="30%" height="30%">
 </div>
 
 ## Step 5: Begin Using Your C3 Device
@@ -75,8 +75,8 @@ Once added, your **C3** device is ready for use. Through the dashboard, you can:
 > Ensure your printer is free of obstacles before starting any movement or calibration commands. Follow the safety guidelines provided in the user manual.
 
 <div style="display: flex; justify-content: space-around; align-items: center; width: 100%;">
-  <img src="../assets/images/c3/navigateprinter.png" width="40%" height="40%">
-  <img src="../assets/images/c3/controlpage.png" width="45%" height="45%">
+  <img src="../assets/images/c3/navigateprinter.png" width="50%" height="50%">
+  <img src="../assets/images/c3/controlpage.png" width="55%" height="55%">
 </div>
 
 ## Troubleshooting
